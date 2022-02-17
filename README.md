@@ -1,6 +1,9 @@
 # PowerBI_desafio4
 Dashboard criado a partir do conjunto de dados "seguro_saude.csv" de acordo com os requisitos estipulados no arquivo "Desafio-Requisitos V2.pdf".
 
+Exercício realizado no curso de Power BI para Data Science ofertado pela [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science).
+________
+
 ## <b>Passo a passo para resolução do problema:</b>
 
 <i>--> Carregamento dos dados .csv
