@@ -1,22 +1,23 @@
-# PowerBI_desafio4
+# Power BI Desafio 4
 Dashboard criado a partir do conjunto de dados "seguro_saude.csv" de acordo com os requisitos estipulados no arquivo "Desafio-Requisitos V2.pdf".
 
 Exercício realizado no curso de Power BI para Data Science ofertado pela [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science).
 ________
 
-## <b>Passo a passo para resolução do problema:</b>
+## <b>Etapas:</b>
 
-<i>--> Carregamento dos dados .csv
+- [x] Carregamento dos dados .csv
 
---> Transformação dos dados:
+- [x] Transformação dos dados:
 
 - Utilizar primeira linha como cabeçalho;
 - Remoção da primeira linha que estava duplicada (2 cabeçalhos);
 - Limpeza de registros com valores nulos e/ou inconsistentes com a filtragem.
 
+- [x] Dashboard atendendo aos requisitos do desafio (arquivo .png).
 _________
 
-## <b>Cumprimento dos requisitos do pdf:</b>
+## <b>Requisitos:</b>
 
 
 -  <b>Requisito número 1:</b>
