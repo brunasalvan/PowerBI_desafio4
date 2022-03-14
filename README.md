@@ -65,5 +65,6 @@ Foi utilizado um cartão com a média geral do IMC. Quando selecionado o gênero
 
 Foram utilizadas duas visualizações de filtro: regiões e idade. Seleciona-se portanto a região sudeste, a idade de 50 a 64, o gênero "homens" no gráfico de rosca, verifica-se a média de gastos no cartão adicionado "Média de Gastos" e compara-se com a média geral da região.
 
+![Dashboard-Pronto-Desafio](https://user-images.githubusercontent.com/98097913/158272529-95fd956d-9eb2-4391-b1eb-526d03367ee1.png)
 
 
