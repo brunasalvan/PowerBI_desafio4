@@ -10,9 +10,9 @@ ________
 
 - [x] Transformação dos dados:
 
-- Utilizar primeira linha como cabeçalho;
-- Remoção da primeira linha que estava duplicada (2 cabeçalhos);
-- Limpeza de registros com valores nulos e/ou inconsistentes com a filtragem.
+- [x] Utilizar primeira linha como cabeçalho;
+- [x] Remoção da primeira linha que estava duplicada (2 cabeçalhos);
+- [x] Limpeza de registros com valores nulos e/ou inconsistentes com a filtragem.
 
 - [x] Dashboard atendendo aos requisitos do desafio (arquivo .png).
 _________
